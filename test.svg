@@ -37,7 +37,6 @@
 	<line id="XMLID_22_" class="st3" x1="231.6" y1="208" x2="531" y2="208"/>
 	<line id="XMLID_18_" class="st3" x1="830.7" y1="208" x2="531.3" y2="208"/>
 </g>
-<circle cx="50" cy="50" r="30" fill="blue" onPress={() => console.log('Circle pressed')} />
 <circle id="XMLID_20_" class="st1" cx="531.3" cy="208" r="8.3"/>
 <circle id="XMLID_7_" class="st4" cx="531.3" cy="208" r="6.2"/>
 </svg>
